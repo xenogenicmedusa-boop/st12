@@ -1,6 +1,11 @@
 :root{
-    --mycolor01: #e1dcd9;
-    --mycolor02: #8f8681;
-    --mycolor03: #a67f78;
-    --mycolor04: #32435f;
+    --ConfyNeutral01: #e1dcd9;
+    --ConfyNeutral02: #8f8681;
+    --ConfyNeutral03: #a67f78;
+    --ConfyNeutral04: #32435f;
+
+    --MellowAgate01: #ffd954;
+    --MellowAgate02: #e4b660;
+    --MellowAgate03:#f2ab39;
+    --MellowAgate04:#69491a;
 }
